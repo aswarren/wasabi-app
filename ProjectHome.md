@@ -1,0 +1,2 @@
+Wasabi is a versatile borwser-based application for visualizing, editing and downstream analysis of molecular sequences and/or phylogenetic trees.
+Its modular structure enables Wasabi to run e.g. as a standalone desktop application with local or shared backend server or launch it from a remote server using a touchscreen tablet.

@@ -5064,5 +5064,5 @@ $(function(){
 		}, 400); }});
 	}, 700); };
 	if(~window.location.host.indexOf('localhost')||window.location.protocol=='file:') settingsmodel.sharelinks(false);
-	//communicate('checkserver','',{success:startup, retry:true, after:showbuttons});
+	communicate('checkserver','',{success:startup, retry:true, after:showbuttons});
 });
